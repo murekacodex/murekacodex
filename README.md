@@ -26,9 +26,7 @@ Welcome to my GitHub profile! Here, you'll find a variety of projects and contri
 - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat) projects, both web and backend-focused solutions
 
 ## 📫 How to reach me ...
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@murekacodex](https://twitter.com/yourhandle)
+- **Email**: [kinotivictor24@gmail.com](mailto:kinotivictor24@gmail.com)
 
 ## 😄 Pronouns:
 - He/Him or They/Them
