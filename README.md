@@ -28,8 +28,6 @@ Welcome to my GitHub profile! Here, you'll find a variety of projects and contri
 ## 📫 How to reach me ...
 - **Email**: [kinotivictor24@gmail.com](mailto:kinotivictor24@gmail.com)
 
-## 😄 Pronouns:
-- He/Him or They/Them
 
 ## ⚡ Fun fact:
 - I once built a game in under 24 hours for a hackathon and won first place!
