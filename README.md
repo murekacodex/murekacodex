@@ -1,9 +1,6 @@
 # 👋 Hi, I’m @Victor Kinoti
 
 Welcome to my GitHub profile! Here, you'll find a variety of projects and contributions that reflect my journey in tech, coding, and beyond.
-![Build Status](https://img.shields.io/github/workflow/status/johnDoe/my-repo/CI)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub stars](https://img.shields.io/github/stars/johnDoe/my-repo?style=social)
 
 ## 👀 I’m interested in ...
 - Full-stack web development ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
