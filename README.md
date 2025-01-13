@@ -66,9 +66,3 @@ We are open to collaborating on:
 
 ---
 
-## ⚡ Fun Facts  
-
-- Built an award-winning game in under 24 hours during a hackathon!  
-- Passionate about learning new languages – currently exploring Japanese.  
-- Started the coding journey with ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat), leveraging tools like ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9933?logo=jupyter&logoColor=white&style=flat) to tell compelling data stories.  
-
