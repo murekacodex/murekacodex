@@ -1,6 +1,17 @@
 # 👋 Hi, This is Mureka Codex Company repository
 Welcome to Our GitHub profile! Here, you'll find a variety of projects and contributions that reflect my journey in tech, coding, and beyond.
 
+## About the Appropriator
+
+**Victor Kinoti**  
+Software Engineer | Nairobi, Kenya  
+
+Victor Kinoti is a talented software engineer based in Nairobi, Kenya. With a passion for crafting innovative solutions, he continuously contributes to the tech community.  
+
+🌟 **Explore More:**  
+Check out Victor's GitHub repository for amazing projects and contributions:  
+[https://github.com/Karemu1842call](https://github.com/Karemu1842call)
+
 ## 👀 We are interested in ...
 - Full-stack web development ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 - Mobile app development ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
